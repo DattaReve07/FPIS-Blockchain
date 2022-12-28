@@ -7,7 +7,8 @@
 *Truffle,*
 *Ganache,*
 *Metamask,*
-*Create-React-app,*
+*Solidity,*
+*React js,*
 *Mongodb Atlas,*
 *Express js,*
 *React Native,*
