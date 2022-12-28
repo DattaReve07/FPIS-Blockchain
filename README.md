@@ -35,4 +35,5 @@
 **Manufacturer's dealer login and verifying originality of product using his app**
 ![image](https://user-images.githubusercontent.com/121539226/209843206-05a23aa6-af12-4eeb-b431-82e8db8a173b.png)
 
-
+### Conclusion
+*A QR code based fake product identification system using blockchain is developed. Genuinity of Original product is maintained via blockchain and Mobile app QR code based technolgy makes it a lot easier for finding out Real product.*
